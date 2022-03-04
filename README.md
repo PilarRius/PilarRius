@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PilarRius, world citizen and data enthusiast.  
 - 👀 I’m interested in finding patterns that teach us insights and that add value.
-- 🌱 I’m currently learning modelling
+- 🌱 I’m currently working as a part time data analyst
 - 💞️ I’m looking to collaborate on projects with others
 - 📫 Reach me at pilarriusm@gmail.com
 
