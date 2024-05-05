@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PilarRius, world citizen and data enthusiast.  
-- 👀 I’m interested in finding patterns that teach us insights and that add value.
-- 🌱 I’m currently working as a data analyst consultant at FAO/UN
+- 👋 Hi, I’m @PilarRius, world citizen and tech_data enthusiast.  
+- 👀 I’m interested in finding solutions to real problems.
+- 🌱 I’m currently working as a tech solutions and data scientist at FAO/UN
 - 💞️ I’m looking to collaborate on projects with others
 - 📫 Reach me at pilarriusm@gmail.com
 
