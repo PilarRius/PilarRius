@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @PilarRius, world citizen and tech_data enthusiast.  
-- 👀 I’m interested in finding solutions to real problems.
-- 🌱 I’m currently working as a tech solutions and data scientist at FAO/UN
-- 💞️ I’m looking to collaborate on projects with others
-- 📫 Reach me at pilarriusm@gmail.com
+    class PilarRius:
+        def __init__(self):
+            self.name = "Pilar Rius"
+            self.title = "World Citizen | Tech & Data Enthusiast"
+            self.current_role = "Tech Solutions & Data Scientist at FAO/UN"
+            self.skills = [
+            "Python", "R", "Vue", "React", "JavaScript", 
+            "TypeScript", "Nuxt", "Express"
+        ]
+        self.email = "pilarriusm@gmail.com"
+    
+    def about_me(self):
+        return f"""
+        👋 Hi, I'm {self.name}, a {self.title}.
+        👀 I'm interested in finding solutions to real problems.
+        🌱 Currently, I'm working as a {self.current_role}.
+        💞️ I'm looking to collaborate on projects with others.
+        📫 Reach me at {self.email}.
+        """
 
-<!---
-PilarRius/PilarRius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    def coding_skills(self):
+        return f"""
+        🛠️ Coding Skills:
+        - {', '.join(self.skills[:2])}
+        - Learnt on the job: {', '.join(self.skills[2:])}
+        """
+
+# Create an instance of PilarRius
+pilar = PilarRius()
+
+# Display about me and coding skills
+print(pilar.about_me())
+print(pilar.coding_skills())
+
+
